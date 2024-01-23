@@ -10,6 +10,7 @@ Jab koi bhi function ya variable kisi function ya block k bahir create hua ho to
 
 Jab bhi koi variable ya function kisi function ya block k andr define kiya gya ho to wo variable us block k outer scope me access nahi kiya jaskta, balke wo sirf usi function ya us function k kisi bhi nested block k andr kahin bhi use kiya ja skta 
 
+---
 
 ### English:
 
