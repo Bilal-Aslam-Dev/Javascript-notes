@@ -5,6 +5,7 @@
 - Variables Garbage Collection k through apne scope ya context ki execution k baad memory se release hojaty hai usually agr wo kisi closure se related ya connected na hon.
 - Or jis closure me variables use hotay hain wo reference k through store hoty hain na k uski value ki through, even tab bhi jab variable ki data type Immutable ho.
 
+---
 
 ### English:
 
