@@ -17,6 +17,7 @@ Roman Urdu:
 ● Mutable data types ki value address k through access hoti hai isi liye jab hum ek new variable ko pehle se bana hua object assign kr dein, or phir new variable ko use krte huwe hum us object me kuch changes karengy to jahan jahan us object ka reference use hua hai har jga changed result milega kyun k saray refrences ek hi value ko point kar rhe hoty hain address k through.
 ● Mutable data types ki values Heap me store hoti hain kyun k humein dynamic data chahiye hota hai or humein pta nai hota k data kitna grow krega to hum usy ek predefined memory nahi allot kr skte hain. Heap me memory allotment data ko dekhte huwe increase or descrease hoskti hai.
 
+
 English:
 
 ● In JavaScript, there are two types of data: Mutable data types and Immutable data types.
