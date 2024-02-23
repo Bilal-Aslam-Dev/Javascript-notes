@@ -1,6 +1,6 @@
 ### Roman Urdu:
 
-- "This" keyword hr scope me automatically initiate hojata hai.
+- "This" keyword hr scope me automatically initialize hojata hai.
 - "This" ek object hota hai jo current execution ka context ya usse related information rkhta hai, eg: us scope me variables or methods.
 - Regular function k andr "this" ki value dynamic hoti hai, jahan bhi function use hota, "this" us execution k scope ko refer krraha hoga.
 - Agr Regular function globally call hoga to us function k andr "this" global window object ko refer krrha hoga.
