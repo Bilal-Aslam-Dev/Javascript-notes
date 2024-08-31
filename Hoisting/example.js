@@ -6,6 +6,10 @@ function testFunc() {
    console.log(test)
 }
 
+function testung() {
+   
+} 
+
 testFunc() // undefined
 
 var test = "test"
